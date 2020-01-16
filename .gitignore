@@ -1,0 +1,5 @@
+data/files/*
+.ipynb_checkpoints
+ANK.ipynb
+
+!data/files/S002/
